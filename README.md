@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is DomePannawat
 ====================================================================================================================================
 
-Studying Junior Software Development at Generation Bootcamp
+Graduated from Junior Software Development at Generation Bootcamp.
 -----------------------------------------------------------
 
-DomePannawat is a Currently studying Junior Software Development at Generation Bootcamp with a degree in Business Administration. Proficient in Golang, Python, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, React, Node.js, Express, MongoDB and MySQL , they have experience in chatbot AI, facial recognition, and e-commerce projects. Skilled in problem-solving, communication, and teamwork, DomePannawat is passionate about continuous learning and adaptable to various roles in IT.
+DomePannawat is a Graduated from Junior Software Development at Generation Bootcamp. with a degree in Business Administration. Proficient in Golang, Python, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, React, Node.js, Express, MongoDB and MySQL , they have experience in chatbot AI, facial recognition, and e-commerce projects. Skilled in problem-solving, communication, and teamwork, DomePannawat is passionate about continuous learning and adaptable to various roles in IT.
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-dome.vercel.app/)
